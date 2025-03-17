@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
 import github from "../img/github-icon.svg";
-import logo from "../img/logo.svg";
+import logo from "../img/go.png";
+
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
@@ -15,7 +16,7 @@ const Navbar = () => {
       <div className="container">
         <div className="navbar-brand">
           <Link to="/" className="navbar-item" title="Logo">
-            <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+            <img src={logo} alt="Kaldi" style={{ width: "150px" }} />
           </Link>
           {/* Hamburger menu */}
           <button
