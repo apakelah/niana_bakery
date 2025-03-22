@@ -3,17 +3,17 @@ templateKey: 'about-page'
 path: /about
 title: About our values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Dipanggang Segar Setiap Hari
+Kami percaya bahwa kue terbaik adalah yang selalu fresh! Setiap hari, kami memanggang kue dengan bahan berkualitas tinggi untuk memastikan setiap gigitan penuh dengan kelezatan dan kesegaran.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Bahan Premium
+Kami hanya menggunakan bahan terbaik, seperti mentega asli, coklat premium, dan buah-buahan segar, tanpa tambahan pengawet atau bahan kimia berbahaya. Karena kualitas adalah prioritas utama kami!
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Dibuat dengan Tangan dengan Cinta
+Setiap kue dibuat dengan penuh cinta dan keahlian oleh tim baker profesional. Mulai dari dekorasi hingga rasa, semuanya dibuat dengan perhatian terhadap detail untuk menciptakan pengalaman manis yang sempurna.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Kreasi Kustom
+Kami memahami bahwa setiap momen spesial membutuhkan sentuhan pribadi. Oleh karena itu, kami menerima pesanan kue custom dengan desain dan rasa sesuai keinginan pelanggan.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Memanggang Berkelanjutan & Etis
+Kami berkomitmen untuk menjaga lingkungan dengan menggunakan bahan-bahan yang bersumber secara etis dan mengurangi limbah seminimal mungkin dalam proses produksi kami.

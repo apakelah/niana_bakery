@@ -1,74 +1,61 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+title: 
+image: /img/baner2.png
+heading: The best choice of cake shop
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+ Niana Cake'TAG adalah tempat penjualan kue kering, cookies, dan lain sebagainya.
+  niana cake hanya berbasis online saja dan pembuatan rumah, memilih bahan yang terbaik, bagus, dan sehat. 
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/bento.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Mau kasih kejutan orang tersayang, tapi bosen dengan kue tart, kalian bisa coba bento cake ini lohhh...
+        selain harganya terjangkau dan rasanya juga ga jauh beda dengan kue tart, ukurannya yang mini
+        jadi mudah di bawa untuk memberi orang tersayang kejutan, yukk bisa langsung order.
+    - image: /img/nastar.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        haloo bunda-bunda, nianacake'Tag juga jualan nastar loh. buat bunda-bunda yang belom ada waktu ni
+        untuk bikin kue lebaran, ga perlu khawatir bun. nianacake'Tag jugaa ada ko, dengan bahan pilihan dan
+        tekskur yang lembut, dan juga bentuk yang beda dari nastar lain nya, yuk bun bisa langsung order aja.
+    - image: /img/macaron2.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        hay, hayyy buat kalian nih para pencinta cake manis, yang lucuu 
+        nianacake'Tag. sekarang sudah menjualan macaron, berbagai warna dan bentuk yang lucu-lucu 
+        ga kalah enak ko rasanya sama macaron-macaron lain nyaa, bisa buat teman ngemil,dan nonton flim best. yukk besti boleh langsung order.
+    - image: /img/kuekacang.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+       haloo bundaa masih dalam kue kering untuk lebaran, nianacake'Tag juga ada nih kue kacang, yang gurih dan nyoklat
+       gabikin eneg ko coklat, juga ga pahit. yukk bun selain buat sajian lebaran, kue kacang ini juga enak ko buat hidangan bersama kopi, lagi kumpul temen-temen, ataupun arisann, udah bun tunggu apalagi, boleh langsung order bun.
+  heading: 
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: The most popular menu is nianacake'Tag
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    kami menjaga, kualiatas produk kami dengan, bahan-bahan pilihan yang baik dan sehat, serta kami selalu sterilisasi alat pembuatan kue kami, agar kualitas produk kami terjaga dengan baik, serta menjaga kepercayaan customer.
+    sebab itu kami sangat teliti dengan setiap pembuatan kue, dan pemilihan barang yang baik, dan berikut adalah beberapa
+    produk ungulan yang kami punya 
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/bomboloni2.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/kastengle.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/brownies2.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Samantha Lavoie
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      The first time I tasted their cake, I couldn’t believe how soft and rich the flavor was. It felt like a hug in every bite.
+  - author: Daniel Thompson
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      If you’re looking for the best cakes in town, this is the place to go. I love how they combine creativity and quality in every slice!
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions

@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 
-image: /img/bg.jpg
+image: /img/baner1.png
 heading: Tentang kami
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
