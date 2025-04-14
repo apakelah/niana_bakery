@@ -56,7 +56,7 @@ testimonials:
   - author: Daniel Thompson
     quote: >-
       If you’re looking for the best cakes in town, this is the place to go. I love how they combine creativity and quality in every slice!
-full_image: /img/products-full-width.jpg
+full_image: /img/go.png
 pricing:
   heading: Monthly subscriptions
   description: >-
