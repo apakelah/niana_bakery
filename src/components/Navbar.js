@@ -72,7 +72,7 @@ const Navbar = () => {
               rel="noopener noreferrer"
             >
               <span className="icon">
-                <img src={github} alt="whatshap1" />
+                <img src={github} alt="whatshap12g" />
               </span>
             </a>
           </li>
