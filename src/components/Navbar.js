@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
 import github from "../img/whatshap.png";
-import logo from "../img/go.png";
+import logo from "../img/logo4.png";
 
 
 const Navbar = () => {

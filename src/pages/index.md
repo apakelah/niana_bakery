@@ -10,13 +10,10 @@ mainpitch:
     NIANA CAKE'TAG toko online cake & kue kering 
 
 description: >-
-  NIANA CAKE'TAG adalah toko online cake & kue kering yang menyajikan berbagai jenis cake & kue kering lezat juga berkualitas. Kami berkomitmen untuk menyediakan kue kering yang segar, enak, dan tampil menarik.
-  Kue kering kami dibuat dengan bahan-bahan alami dan berkualitas tinggi, Kami memiliki berbagai jenis cake & kue kering, dari klasik hingga modern. Cake & kue kering kami dapat dikustomisasi sesuai dengan keinginan Anda. Jangan ragu untuk memesan cake & kue kering Anda sekarang juga! Kami siap melayani Anda dan memberikan cake & kue kering yang lezat dan memuaskan.
-
+  NIANA CAKE'TAG adalah toko online cake & kue kering yang menyajikan berbagai jenis cake & kue kering lezat juga berkualitas.
+  
 subdescription: 
-  NIANA CAKE'TAG adalah toko online cake & kue kering yang menyajikan berbagai jenis cake & kue kering lezat juga berkualitas. Kami berkomitmen untuk menyediakan kue kering yang segar, enak, dan tampil menarik.
-  Kue kering kami dibuat dengan bahan-bahan alami dan berkualitas tinggi, Kami memiliki berbagai jenis cake & kue kering, dari klasik hingga modern. Cake & kue kering kami dapat dikustomisasi sesuai dengan keinginan Anda. Jangan ragu untuk memesan cake & kue kering Anda sekarang juga! Kami siap melayani Anda dan memberikan cake & kue kering yang lezat dan memuaskan.
-
+  Kue kering kami dibuat dengan bahan-bahan alami dan berkualitas tinggi, Kami memiliki berbagai jenis cake & kue kering, dari klasik hingga modern.
 
 
 intro:
