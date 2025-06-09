@@ -5,32 +5,40 @@ image: /img/baner1.png
 heading: Tentang kami
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Selamat Datang di NIANA CAKE'TAG!
+  title: Selamat Datang di Niana Cake'tag
   description: >-
-    NIANA CAKE'TAG toko online cake & kue kering 
+    Rasakan manisnya momen dengan cake dan cookies pilihan dari Niana Cake'tag
+
+
 
 description: >-
-  NIANA CAKE'TAG adalah toko online cake & kue kering yang menyajikan berbagai jenis cake & kue kering lezat juga berkualitas.
+ Niana Cake'tag adalah toko online yang menghadirkan beragam pilihan cake dan kue kering lezat dengan kualitas terbaik. Kami menyajikan cita rasa istimewa dalam setiap gigitan mulai dari cake yang lembut hingga kue kering yang renyah, semuanya dibuat dengan bahan pilihan dan sentuhan penuh cinta. Cocok untuk hadiah, acara spesial, atau sekadar teman ngopi di rumah.
   
 subdescription: 
-  Kue kering kami dibuat dengan bahan-bahan alami dan berkualitas tinggi, Kami memiliki berbagai jenis cake & kue kering, dari klasik hingga modern.
+  Butuh hampers cantik untuk ulang tahun, lebaran, atau momen spesial lainnya?
+  Niana Cake'tag siap bantu kamu berbagi kebahagiaan lewat rasa manis yang tak terlupakan!
 
 
 intro:
   blurbs:
-    - image: /img/Cookies.png
+    - image: /img/redvelvet1.png
       text: >
-        Nikmati sensasi manis dan gurih dalam setiap gigitan Red Velvet Cookies kami! Dibuat dengan bahan berkualitas tinggi, cookies ini memiliki tekstur yang lembut di dalam dan renyah di luar, berpadu dengan cita rasa khas red velvet yang kaya dan sedikit cokelat.
+        Red Velvet Cookies – Perpaduan Manis, Lembut, dan Renyah dalam Satu Gigitan!
+        Nikmati Red Velvet Cookies terbaik dari Niana Cake'tag! Kue kering ini dibuat dengan bahan berkualitas premium, menghadirkan tekstur lembut di dalam dan renyah di luar, serta cita rasa red velvet yang khas dengan sentuhan cokelat yang lembut dan manis. Cocok untuk camilan harian, suguhan tamu, atau hadiah spesial.
 
-    - image: /img/cake.png
+    - image: /img/cake2.png
       text: >
-        Nikmati sensasi dessert kekinian dalam satu box dengan perpaduan layer cake, mousse, dan topping premium yang lembut serta lumer di mulut! Dibuat dari bahan berkualitas tanpa pengawet, Dessert Box kami siap memanjakan lidahmu dengan rasa manis yang pas dan tekstur yang creamy.
-    - image: /img/brownies.png
+        Nikmati sensasi dessert kekinian dalam satu box dengan perpaduan layer cake, mousse, dan topping premium yang lembut serta lumer di mulut! Dibuat dari bahan berkualitas tanpa pengawet, Dessert Box kami siap memanjakan lidahmu dengan rasa manis yang pas dan tekstur yang creamy.Temukan kenikmatan tiada duanya dalam Dessert Box spesial dari Niana Cake'tag! 
+
+    - image: /img/brownies2.png
       text: >
         Nikmati kelezatan brownies dalam bentuk bite-size yang super moist, fudgy, dan lumer di mulut! Dibuat dari cokelat premium dengan kombinasi rasa yang menggoda, Brownies Bite kami siap memanjakan lidahmu di setiap gigitan.
-    - image: /img/kuekering.png
+    - image: /img/castangle3.png
       text: >
-        Nikmati kastengel berkualitas premium dengan rasa keju yang lebih kuat, tekstur renyah, dan aroma menggoda di setiap gigitannya! Dibuat dari bahan pilihan seperti keju edam dan cheddar asli, tanpa pengawet, serta diproses dengan resep spesial yang menghasilkan kastengel yang lumer di mulut dan super gurih.
+        Nikmati legitnya kastengel premium dari NIANA CAKE'TAG! Dibuat dari campuran keju edam dan cheddar pilihan, menghasilkan rasa yang gurih, tekstur yang renyah, dan aroma keju yang menggoda.
+
+        Kue kering klasik ini cocok disajikan di hari raya, hampers spesial, atau camilan mewah sehari-hari.
+        Sekali gigit, gurih kejunya langsung terasa!
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
