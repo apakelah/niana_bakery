@@ -3,31 +3,24 @@ templateKey: 'product-page'
 path: /products
 title: 
 image: /img/baner2.png
-heading: The best choice of cake shop
+heading: Momen manismu, kreasi lezat dari kami
 description: >-
- Niana Cake'TAG adalah tempat penjualan kue kering, cookies, dan lain sebagainya.
-  niana cake hanya berbasis online saja dan pembuatan rumah, memilih bahan yang terbaik, bagus, dan sehat. 
+ Kami di Niana Cake'TAG percaya bahwa setiap momen istimewa layak dirayakan dengan kue yang lezat dan cantik. Dari kue kering klasik, cookies lembut, hingga bentocake dan macaroons kekinian, semua kreasi kami dibuat dengan sepenuh hati dan bahan premium yang berkualitas.
+  Dibuat di rumah dan hanya berbasis online, setiap produk kami menghadirkan kelezatan homemade yang aman dan sehat. Jadikan setiap gigitan manis dari kami sebagai bagian dari momen berharga dan kenangan indahmu!
 intro:
   blurbs:
-    - image: /img/bento.jpg
+    - image: /img/bentocake.jpg
       text: >
-        Mau kasih kejutan orang tersayang, tapi bosen dengan kue tart, kalian bisa coba bento cake ini lohhh...
-        selain harganya terjangkau dan rasanya juga ga jauh beda dengan kue tart, ukurannya yang mini
-        jadi mudah di bawa untuk memberi orang tersayang kejutan, yukk bisa langsung order.
-    - image: /img/nastar.jpg
+        Bento Cake – Kue mini cantik yang siap memeriahkan setiap momen spesialmu! Kami menghadirkan berbagai varian bentocake dengan desain lucu, unik, dan elegan yang cocok untuk ulang tahun, anniversary, hadiah spesial, atau sekadar memanjakan diri. Dibuat dengan bahan premium, tanpa pengawet, dan selalu fresh setiap hari.
+    - image: /img/nastarr.jpeg
       text: >
-        haloo bunda-bunda, nianacake'Tag juga jualan nastar loh. buat bunda-bunda yang belom ada waktu ni
-        untuk bikin kue lebaran, ga perlu khawatir bun. nianacake'Tag jugaa ada ko, dengan bahan pilihan dan
-        tekskur yang lembut, dan juga bentuk yang beda dari nastar lain nya, yuk bun bisa langsung order aja.
-    - image: /img/macaron2.jpg
+       Nastar – Kue kering klasik yang selalu jadi primadona di setiap perayaan! Kami menghadirkan nastar premium dengan isian selai nanas legit, tekstur lembut, dan lumer di mulut. Dibuat dari bahan berkualitas tanpa pengawet, nastar kami menjadi pilihan tepat untuk memeriahkan momen spesial.   
+    - image: /img/macaroons.jpeg
       text: >
-        hay, hayyy buat kalian nih para pencinta cake manis, yang lucuu 
-        nianacake'Tag. sekarang sudah menjualan macaron, berbagai warna dan bentuk yang lucu-lucu 
-        ga kalah enak ko rasanya sama macaron-macaron lain nyaa, bisa buat teman ngemil,dan nonton flim best. yukk besti boleh langsung order.
-    - image: /img/kuekacang.jpg
+        Macaroon – Camilan manis asal Prancis yang memesona dengan tekstur renyah di luar dan lembut di dalam! Kami menyajikan macaroons premium dengan berbagai varian rasa yang menggoda seperti cokelat, vanila, pistachio, stroberi, dan banyak lagi. Dibuat dari bahan berkualitas, tanpa pengawet, dan selalu fresh setiap hari.
+    - image: /img/kk.jpeg
       text: >
-       haloo bundaa masih dalam kue kering untuk lebaran, nianacake'Tag juga ada nih kue kacang, yang gurih dan nyoklat
-       gabikin eneg ko coklat, juga ga pahit. yukk bun selain buat sajian lebaran, kue kacang ini juga enak ko buat hidangan bersama kopi, lagi kumpul temen-temen, ataupun arisann, udah bun tunggu apalagi, boleh langsung order bun.
+       Kue Kacang – Camilan tradisional yang tak pernah lekang oleh waktu! Kami menyajikan kue kacang premium dengan aroma kacang yang harum, tekstur renyah, dan rasa gurih yang khas. Terbuat dari bahan berkualitas dan diproses secara higienis tanpa pengawet, kue kacang kami menjadi teman setia di setiap momen spesial.
   heading: 
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -35,20 +28,19 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: The most popular menu is nianacake'Tag
+  heading: Menu Pilihan Terbaik di Niana Cake'TAG
   description: >
-    kami menjaga, kualiatas produk kami dengan, bahan-bahan pilihan yang baik dan sehat, serta kami selalu sterilisasi alat pembuatan kue kami, agar kualitas produk kami terjaga dengan baik, serta menjaga kepercayaan customer.
-    sebab itu kami sangat teliti dengan setiap pembuatan kue, dan pemilihan barang yang baik, dan berikut adalah beberapa
-    produk ungulan yang kami punya 
+    menghadirkan berbagai kue lezat dan berkualitas yang selalu menjadi favorit pelanggan. Dari cake basah, kue tart, hingga aneka pastry, setiap menu dibuat dengan bahan premium dan resep istimewa yang menjamin cita rasa autentik dan memanjakan lidah. Temukan pilihan kue terbaik untuk momen spesial Anda, baik ulang tahun, acara keluarga, maupun sebagai hadiah istimewa. Nikmati kelezatan yang tak terlupakan hanya di Niana Cake'TAG!
+ 
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/bomboloni2.jpg
+    alt: Bolu gulung dengan lapisan krim dan hiasan gula halus
+    image: /img/bolu gulung.jpeg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/kastengle.jpg
+    alt: Potongan brownies cokelat lembut dengan tekstur moist
+    image: /img/brownies2.png
   image3:
-    alt: Coffee beans
-    image: /img/brownies2.jpg
+    alt: Sepiring cookies renyah dengan taburan cokelat di atas piring putih
+    image: /img/coky.jpeg
 testimonials:
   - author: Samantha Lavoie
     quote: >-
@@ -56,14 +48,13 @@ testimonials:
   - author: Daniel Thompson
     quote: >-
       If you’re looking for the best cakes in town, this is the place to go. I love how they combine creativity and quality in every slice!
-full_image: /img/go.png
+full_image: /img/logo3.png
 pricing:
-  heading: Monthly subscriptions
+  heading: Paket Langganan Bulanan
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Nikmati kemudahan mendapatkan kue lezat langsung di rumah setiap bulan dengan paket langganan bulanan dari Niana Cake'TAG. Pilih paket langganan favorit Anda dan rasakan sensasi kue segar yang selalu siap menemani momen spesial. Hubungi kami untuk informasi lebih lanjut dan cara pembayaran.
   plans:
+
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
         - 3 lbs of coffee per month

@@ -2,21 +2,24 @@
 templateKey: index-page
 title: 
 image: /img/baner1.png
-heading: Tentang kami
+heading: Kenalan dengan Niana Cake'tag
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Selamat Datang di Niana Cake'tag
   description: >-
-    Rasakan manisnya momen dengan cake dan cookies pilihan dari Niana Cake'tag
+    Rasakan manisnya setiap momen dengan pilihan cake dan kue kering homemade dari Niana Cake'tag! Kami menghadirkan berbagai varian kue lezat berkualitas premium, mulai dari cake lembut, cookies renyah, hingga dessert box kekinian yang cocok untuk semua suasana.
+
+    Temukan rasa terbaik dan tampilan memikat yang cocok untuk hadiah, hampers, atau camilan harianmu.
+    Cake'tag – Cita rasa manis, dibuat dengan cinta.
 
 
 
 description: >-
- Niana Cake'tag adalah toko online yang menghadirkan beragam pilihan cake dan kue kering lezat dengan kualitas terbaik. Kami menyajikan cita rasa istimewa dalam setiap gigitan mulai dari cake yang lembut hingga kue kering yang renyah, semuanya dibuat dengan bahan pilihan dan sentuhan penuh cinta. Cocok untuk hadiah, acara spesial, atau sekadar teman ngopi di rumah.
+ Niana Cake'tag adalah toko online yang menghadirkan aneka pilihan cake dan kue kering rumahan berkualitas tinggi. Kami berkomitmen menyajikan produk dengan bahan premium, tanpa pengawet, dan dibuat secara fresh setiap hari. Mulai dari red velvet cookies, brownies fudgy, hingga kastengel renyah penuh keju, semuanya dibuat dengan sentuhan cinta dan standar kualitas terbaik.
   
 subdescription: 
-  Butuh hampers cantik untuk ulang tahun, lebaran, atau momen spesial lainnya?
-  Niana Cake'tag siap bantu kamu berbagi kebahagiaan lewat rasa manis yang tak terlupakan!
+ Kami siap membantu menciptakan momen spesialmu mulai dari ulang tahun, lebaran, hari kasih sayang, hingga sekadar menikmati waktu santai bersama keluarga.
+  Butuh hampers cantik dan kekinian? Niana Cake'tag jawabannya!
 
 
 intro:

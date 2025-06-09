@@ -1,19 +1,30 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Kisah di Balik Niana Cake'tag
 ---
-### Dipanggang Segar Setiap Hari
-Kami percaya bahwa kue terbaik adalah yang selalu fresh! Setiap hari, kami memanggang kue dengan bahan berkualitas tinggi untuk memastikan setiap gigitan penuh dengan kelezatan dan kesegaran.
+Di Niana Cake'tag, kami percaya bahwa setiap kue punya cerita dan setiap cerita pantas dirayakan dengan cita rasa terbaik. Sebagai toko online cake dan kue kering homemade, kami menghadirkan produk yang bukan hanya lezat, tapi juga dibuat dengan sepenuh hati dan nilai-nilai yang kami pegang teguh.
 
-### Bahan Premium
-Kami hanya menggunakan bahan terbaik, seperti mentega asli, coklat premium, dan buah-buahan segar, tanpa tambahan pengawet atau bahan kimia berbahaya. Karena kualitas adalah prioritas utama kami!
+### Nilai-Nilai Kami
 
-### Dibuat dengan Tangan dengan Cinta
-Setiap kue dibuat dengan penuh cinta dan keahlian oleh tim baker profesional. Mulai dari dekorasi hingga rasa, semuanya dibuat dengan perhatian terhadap detail untuk menciptakan pengalaman manis yang sempurna.
+**Dipanggang Segar Setiap Hari**
 
-### Kreasi Kustom
-Kami memahami bahwa setiap momen spesial membutuhkan sentuhan pribadi. Oleh karena itu, kami menerima pesanan kue custom dengan desain dan rasa sesuai keinginan pelanggan.
+Kami memanggang setiap cake dan kue kering secara fresh setiap hari. Dengan begitu, setiap gigitan selalu menghadirkan kesegaran dan rasa otentik yang tak terlupakan.
 
-### Memanggang Berkelanjutan & Etis
-Kami berkomitmen untuk menjaga lingkungan dengan menggunakan bahan-bahan yang bersumber secara etis dan mengurangi limbah seminimal mungkin dalam proses produksi kami.
+**Menggunakan Bahan Premium**
+
+Kami hanya memilih bahan terbaik: mentega asli, cokelat premium, dan buah-buahan segar. Tanpa pengawet, tanpa bahan tambahan berbahaya. Karena bagi kami, kualitas adalah segalanya.
+
+**Dibuat dengan Tangan & Cinta**
+
+Setiap produk dibuat secara handmade oleh tim baker profesional yang berpengalaman. Dari tekstur hingga tampilan, kami fokus pada detail untuk memberikan hasil terbaik di setiap produk.
+
+**Kreasi Kustom untuk Momen Spesial**
+
+Kami tahu bahwa setiap perayaan itu unik. Itulah mengapa kami menerima pesanan kue custom—dengan desain dan rasa sesuai impianmu.
+
+**Memanggang secara Etis & Berkelanjutan**
+
+Kami berkomitmen untuk ramah lingkungan. Mulai dari memilih bahan yang bersumber secara etis hingga meminimalisir limbah dalam proses produksi, kami percaya bahwa bisnis pun bisa peduli pada bumi.
+
+**Niana Cake'tag bukan sekadar toko kue. Kami adalah bagian dari momen manismu.**
