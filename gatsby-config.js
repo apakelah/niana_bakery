@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: "NianaStoree",
-    description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+    description:"Order cookies premium homemade di Nianacake'Tag. Fresh from oven, tanpa pengawet, dengan pilihan rasa lezat. Tersedia hampers eksklusif dan layanan pengiriman cepat ",
+    author:"nadzwa salsabilah",
+    keywords:"Order cookies premium homemade di Nianacake'Tag. Dibuat fresh setiap hari tanpa pengawet. Tersedia varian cookies lezat dan hampers eksklusif untuk semua momen spesial!",
     url: "https://nianastore.biz.id/",
     },
 
