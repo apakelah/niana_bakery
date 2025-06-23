@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+patch: /blog
 title: Nianacake'Tag adalah Cookies Favorit Semua Kalangan Gen
 date: 2025-06-16T15:04:10.000Z
 featuredpost: false

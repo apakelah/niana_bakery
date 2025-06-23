@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+patch: /blog
 title: Order Cookies Online di Nianacake'Tag — Best Homemade Cookies, Praktis & Terpercaya!
 date: 2025-06-16T15:04:10.000Z
 featuredpost: false
@@ -80,4 +81,5 @@ Cookies dikemas dalam box foodgrade & bubblewrap, aman sampai tujuan!
 Nikmati manisnya hidup dengan satu gigitan cookies dari Nianacake'Tag. Yuk, **beli cookies online yang enak dan premium**, cocok untuk camilan, hadiah, atau teman santai kamu setiap hari.
 
 ---
+
 

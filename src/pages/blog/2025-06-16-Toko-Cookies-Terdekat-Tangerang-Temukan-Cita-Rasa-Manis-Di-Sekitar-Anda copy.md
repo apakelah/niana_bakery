@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+patch: /blog
 title: Niana Bakery Online — Rasa Premium dari Dapur Rumahan, Bisa Pesan Online!
 date: 2025-06-16T15:04:10.000Z
 featuredpost: false
@@ -89,3 +90,4 @@ Di **Nianacake'Tag**, setiap cookies dibuat dengan hati, dikemas penuh cinta, da
 
 Dengan Niana Bakery Online, kamu tak hanya menikmati kue enak, tapi juga merasakan kualitas dan kehangatan buatan rumahan.  
 Yuk, **order bakery online premium** sekarang juga — cocok untuk siapa pun, kapan pun!
+
