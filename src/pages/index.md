@@ -5,63 +5,76 @@ image: /img/baner1.png
 heading: Kenalan dengan Niana Cake'tag
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Selamat Datang di Niana Cake'tag
+  title: SELAMAT DATANG DI WEBSITE Nianacake'TAG
   description: >-
-    Rasakan manisnya setiap momen dengan pilihan cake dan kue kering homemade dari Niana Cake'tag! Kami menghadirkan berbagai varian kue lezat berkualitas premium, mulai dari cake lembut, cookies renyah, hingga dessert box kekinian yang cocok untuk semua suasana.
+    Nianacake'Tag bukan sekadar toko kue online biasa. Ini adalah wujud cinta dari dapur rumahan di Tangerang yang menghadirkan rasa manis penuh kenangan. 
+    Dari cookies renyah hingga cake lembut yang lumer di mulut, semua dibuat secara homemade tanpa pengawet dan dengan bahan-bahan pilihan yang aman dikonsumsi oleh semua kalangan.
 
-    Temukan rasa terbaik dan tampilan memikat yang cocok untuk hadiah, hampers, atau camilan harianmu.
-    Cake'tag – Cita rasa manis, dibuat dengan cinta.
+    
+    Kami percaya, setiap kue bukan hanya soal rasa, tapi tentang momen hangat yang tak tergantikan. Itulah kenapa proses kami bukan sekadar produksi  tapi ritual. Mulai dari menakar tepung, mencampur adonan, memanggang dengan hati-hati, hingga menghias dengan penuh detail, semuanya kami lakukan secara manual, dengan tangan-tangan terampil dan hati yang mencintai proses.
+
+    Nianacake'Tag hadir untuk kamu yang rindu akan rasa otentik, tampilan cantik, dan kualitas premium dalam setiap suguhan. Cocok untuk hadiah, hampers, camilan sore, atau perayaan hari besar. Kami tidak menjual produk massal  kami mengirimkan kebahagiaan yang bisa kamu cicipi.
 
 
 
 description: >-
- Niana Cake'tag adalah toko online yang menghadirkan aneka pilihan cake dan kue kering rumahan berkualitas tinggi. Kami berkomitmen menyajikan produk dengan bahan premium, tanpa pengawet, dan dibuat secara fresh setiap hari. Mulai dari red velvet cookies, brownies fudgy, hingga kastengel renyah penuh keju, semuanya dibuat dengan sentuhan cinta dan standar kualitas terbaik.
+
   
 subdescription: 
- Kami siap membantu menciptakan momen spesialmu mulai dari ulang tahun, lebaran, hari kasih sayang, hingga sekadar menikmati waktu santai bersama keluarga.
-  Butuh hampers cantik dan kekinian? Niana Cake'tag jawabannya!
+  Niana Caketag adalah toko kue online yang menghadirkan aneka kue lezat homemade yang telah menjadi favorit semua kalangan. Tidak hanya cookies, kami juga menyediakan beragam pilihan cake premium buatan rumahan yang cocok untuk segala usia dan suasana.
+
+  Mulai dari cookies yang renyah dengan rasa kekinian, cake lembut yang pas untuk perayaan ulang tahun, hingga dessert box manis yang cocok untuk camilan sore, semua dibuat dengan penuh ketulusan dan tanpa bahan pengawet. Setiap produknya diracik menggunakan bahan berkualitas dan proses rumahan yang higienis serta penuh cinta.
+
+  Niana Caketag cocok untuk siapa saja yang menginginkan kue enak dengan rasa autentik dan tampilan menarik. Baik untuk anak-anak, remaja, hingga orang dewasa, semua bisa menikmati kelezatan kue dari Niana Caketag. Produk kami juga ideal untuk berbagai kebutuhan seperti hampers, bingkisan ulang tahun, oleh-oleh, atau sebagai teman minum teh di sore hari.
+
+  Mengapa memilih Nianacake'Tag 
+
+  Kue homemade tanpa bahan pengawet, Varian produk lengkap mulai dari cookies, cake, hingga dessert box,
+  Cocok untuk hadiah, acara spesial, dan camilan harian
+  Rasa enak, tampilan menarik, dan kualitas premium
+
+  Jelajahi katalog lengkap kami dan temukan kue favoritmu hanya di website resmi Niana Caketag
+
+
+  Niana Caketag
+  Rasa manis buatan rumah yang dicintai semua generasi
+
+
 
 
 intro:
   blurbs:
     - image: /img/redvelvet1.png
       text: >
-        Red Velvet Cookies – Perpaduan Manis, Lembut, dan Renyah dalam Satu Gigitan!
-        Nikmati Red Velvet Cookies terbaik dari Niana Cake'tag! Kue kering ini dibuat dengan bahan berkualitas premium, menghadirkan tekstur lembut di dalam dan renyah di luar, serta cita rasa red velvet yang khas dengan sentuhan cokelat yang lembut dan manis. Cocok untuk camilan harian, suguhan tamu, atau hadiah spesial.
+        Red Velvet Cookies dari Niana Caketag adalah perpaduan manis, lembut, dan renyah dalam satu gigitan. Kue kering ini mencerminkan komitmen kami dalam menghadirkan produk homemade tanpa pengawet dengan kualitas rasa yang premium. Dibuat dari bahan pilihan dengan sentuhan cokelat khas red velvet, cookies ini cocok untuk camilan harian atau bingkisan spesial yang manis dan elegan.
 
     - image: /img/cake2.png
       text: >
-        Nikmati sensasi dessert kekinian dalam satu box dengan perpaduan layer cake, mousse, dan topping premium yang lembut serta lumer di mulut! Dibuat dari bahan berkualitas tanpa pengawet, Dessert Box kami siap memanjakan lidahmu dengan rasa manis yang pas dan tekstur yang creamy.Temukan kenikmatan tiada duanya dalam Dessert Box spesial dari Niana Cake'tag! 
+        Dessert Box dari Niana Caketag membawa nuansa manis yang kekinian dalam satu kotak lengkap. Terdiri dari layer cake, mousse, dan topping lembut yang meleleh di mulut, dessert ini menggambarkan inovasi rasa khas homemade kami. Dibuat tanpa bahan pengawet dan cocok untuk semua usia, produk ini sempurna untuk hadiah, hampers, atau momen manis bersama orang tercinta. 
 
     - image: /img/brownies2.png
       text: >
-        Nikmati kelezatan brownies dalam bentuk bite-size yang super moist, fudgy, dan lumer di mulut! Dibuat dari cokelat premium dengan kombinasi rasa yang menggoda, Brownies Bite kami siap memanjakan lidahmu di setiap gigitan.
+        Brownies Bite Niana Caketag dibuat untuk kamu yang mencari camilan fudgy dan mewah dalam ukuran praktis. Dibalut dengan cokelat premium dan tekstur super moist, setiap gigitan menggambarkan kualitas dan rasa yang menjadi ciri khas Niana Caketag. Cocok untuk sajian santai, suguhan tamu, hingga hadiah premium bernuansa rumahan.
+
     - image: /img/castangle3.png
       text: >
-        Nikmati legitnya kastengel premium dari NIANA CAKE'TAG! Dibuat dari campuran keju edam dan cheddar pilihan, menghasilkan rasa yang gurih, tekstur yang renyah, dan aroma keju yang menggoda.
+        Kastengel dari Niana Caketag adalah representasi dari kue kering klasik yang naik kelas. Dibuat dengan campuran keju edam dan cheddar asli, kastengel ini memiliki tekstur renyah dan rasa gurih yang khas. Cocok disajikan saat hari raya, dalam hampers spesial, atau dinikmati sebagai camilan mewah harian. Inilah salah satu bentuk cinta kami dalam menghadirkan rasa rumahan yang premium.
+        
+  heading: Apa yang Kami Tawarkan
+  description: >
+     Niana Caketag adalah tempat terbaik bagi pecinta kue rumahan yang ingin menikmati rasa autentik dari cake dan cookies buatan sendiri tanpa bahan pengawet. Kami mengutamakan kualitas, rasa, dan sentuhan personal dalam setiap produk. Lebih dari sekadar toko kue online, kami ingin menghadirkan pengalaman rasa yang menghangatkan hati dan cocok untuk semua kalangan.
 
-        Kue kering klasik ini cocok disajikan di hari raya, hampers spesial, atau camilan mewah sehari-hari.
-        Sekali gigit, gurih kejunya langsung terasa!
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Kelezatan Homemade Tanpa Kompromi
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Setiap kue dari Niana Caketag dibuat dengan standar tinggi, mulai dari pemilihan bahan baku hingga proses pengemasan. Kami percaya bahwa kelezatan sejati berasal dari ketulusan dalam membuat dan menyajikan. Semua produk kami dibuat di dapur rumahan dengan tangan terampil dan tanpa bahan tambahan berbahaya, untuk memastikan rasa dan kualitas terbaik sampai ke meja kamu.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Tampilan dekat kue macaron warna-warni yang menggugah selera
     image: /img/macaron.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Kue macaron disajikan dalam cangkir hijau, cocok untuk momen santai
     image: /img/macaron2.jpg
   image3:
-    alt: Coffee beans
+    alt: Brownies lembut dan moist, favorit sepanjang masa
     image: /img/brownies.png
 ---

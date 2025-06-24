@@ -1,33 +1,48 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: 
+title:  
 image: /img/baner2.png
 heading: Momen manismu, kreasi lezat dari kami
 description: >-
- Kami di Nianacake'TAG percaya bahwa setiap momen istimewa layak dirayakan dengan kue yang lezat dan cantik. Dari kue kering klasik, cookies lembut, hingga bentocake dan macaroons kekinian, semua kreasi kami dibuat dengan sepenuh hati dan bahan premium yang berkualitas.
-  Dibuat di rumah dan hanya berbasis online, setiap produk kami menghadirkan kelezatan homemade yang aman dan sehat. Jadikan setiap gigitan manis dari kami sebagai bagian dari momen berharga dan kenangan indahmu!
+ Di Nianacake'Tag, kami percaya bahwa setiap momen spesial layak dirayakan dengan kue terbaik. 
+  Sebagai toko kue online berbasis rumahan, kami menghadirkan beragam kue homemade seperti 
+  cookies lembut, kue kering klasik, bento cake, hingga macaroons kekinian. Semua dibuat dengan bahan premium, tanpa pengawet, dan penuh cinta.
+  Jadikan setiap gigitan dari Nianacake'Tag sebagai bagian dari kenangan manismu yang tak terlupakan.
+
 intro:
   blurbs:
     - image: /img/bentocake.jpg
       text: >
-       Nianacake'Tag juga menyediakan Bento Cake Kue mini cantik yang siap memeriahkan setiap momen spesialmu! Kami menghadirkan berbagai varian bentocake dengan desain lucu, unik, dan elegan yang cocok untuk ulang tahun, anniversary, hadiah spesial, atau sekadar memanjakan diri. Dibuat dengan bahan premium, tanpa pengawet, dan selalu fresh setiap hari.
+       Nianacake'Tag menghadirkan Bento Cake, kue mini cantik dengan desain unik dan elegan. 
+        Cocok untuk ulang tahun, anniversary, hingga hadiah personal. Dibuat segar setiap hari 
+        dengan bahan premium dan tanpa pengawet, bento cake kami siap membuat momen spesialmu lebih berkesan.
+
     - image: /img/nastarr.jpeg
       text: >
-       Nianacake'Tag menyediakan Nastar Kue kering klasik yang selalu jadi primadona di setiap perayaan! Kami menghadirkan nastar premium dengan isian selai nanas legit, tekstur lembut, dan lumer di mulut. Dibuat dari bahan berkualitas tanpa pengawet, nastar kami menjadi pilihan tepat untuk memeriahkan momen spesial.   
+        Nastar klasik dari Nianacake'Tag hadir dengan isian nanas legit dan tekstur lumer di mulut. 
+        Dibuat dari bahan berkualitas dan tanpa pengawet, nastar ini menjadi favorit keluarga di setiap perayaan. 
+        Ideal untuk hampers, bingkisan lebaran, atau camilan keluarga
     - image: /img/macaroons.jpeg
       text: >
-       Kini di Nianacake'Tag Menghadirkan Macaroon Camilan manis asal Prancis yang memesona dengan tekstur renyah di luar dan lembut di dalam! Kami menyajikan macaroons premium dengan berbagai varian rasa yang menggoda seperti cokelat, vanila, pistachio, stroberi, dan banyak lagi. Dibuat dari bahan berkualitas, tanpa pengawet, dan selalu fresh setiap hari.
+       Camilan manis asal Prancis kini hadir di Nianacake'Tag. Macaroons kami memiliki kulit renyah dan isi lembut 
+        dengan varian rasa seperti cokelat, vanila, pistachio, dan stroberi. Dibuat secara homemade dan selalu fresh, 
+        cocok untuk hadiah atau pelengkap jamuan spesial.
     - image: /img/kk.jpeg
       text: >
-       Ga perlu khawatir mencari kue lebaran di Nianacake'Tag juga ada loh, salah satunya Kue Kacang Camilan tradisional yang tak pernah lekang oleh waktu! Kami menyajikan kue kacang premium dengan aroma kacang yang harum, tekstur renyah, dan rasa gurih yang khas. Terbuat dari bahan berkualitas dan diproses secara higienis tanpa pengawet, kue kacang kami menjadi teman setia di setiap momen spesial.
+       Kue Kacang dari Nianacake'Tag adalah camilan tradisional dengan cita rasa khas. 
+        Dibuat dari kacang pilihan dengan rasa gurih dan aroma yang menggoda, tanpa bahan tambahan berbahaya. 
+        Cocok untuk hari raya, hampers, atau sekadar teman santai di rumah.
   heading: 
   description: >
     
 main:
   heading: Menu Pilihan Terbaik di Nianacake'Tag
   description: >
-    Nianacake'Tag menghadirkan berbagai kue lezat dan berkualitas yang selalu menjadi favorit pelanggan. Dari cake basah, kue tart, hingga aneka pastry, setiap menu dibuat dengan bahan premium dan resep istimewa yang menjamin cita rasa autentik dan memanjakan lidah. Temukan pilihan kue terbaik untuk momen spesial Anda, baik ulang tahun, acara keluarga, maupun sebagai hadiah istimewa. Nikmati kelezatan yang tak terlupakan hanya di Nianacake'Tag!
+    Kami menawarkan berbagai pilihan cake, kue kering, dan pastry dengan rasa istimewa. 
+    Setiap produk dibuat secara homemade menggunakan bahan berkualitas tinggi, tanpa pengawet, dan diproses dengan hati-hati. 
+    Mulai dari bolu gulung, brownies moist, hingga cookies renyah semua siap membuat momenmu semakin bermakna.
+
  
   image1:
     alt: Bolu gulung dengan lapisan krim dan hiasan gula halus
@@ -45,11 +60,13 @@ testimonials:
   - author: Daniel Thompson
     quote: >-
       If you’re looking for the best cakes in town, this is the place to go. I love how they combine creativity and quality in every slice!
-full_image: /img/logo3.png
+full_image: /img/baner7.jpeg
 pricing:
   heading: Paket Langganan Bulanan
   description: >-
-    Nikmati kemudahan mendapatkan kue lezat langsung di rumah setiap bulan dengan paket langganan bulanan dari Nianacake'Tag. Pilih paket langganan favorit Anda dan rasakan sensasi kue segar yang selalu siap menemani momen spesial. Hubungi kami untuk informasi lebih lanjut dan cara pembayaran.
+    Dapatkan kue segar dan lezat setiap bulan dengan paket langganan dari Nianacake'Tag. 
+    Cocok untuk kamu yang ingin selalu punya stok camilan premium di rumah, atau untuk mengisi kebutuhan hampers reguler. 
+    Hubungi kami untuk informasi lengkap, pilihan paket, dan metode pembayaran yang tersedia.
   plans:
 
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.

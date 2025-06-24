@@ -1,30 +1,39 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: Kisah di Balik Niana Cake'tag
+title: Tentang Niana Cake'tag
 ---
-Di Niana Cake'tag, kami percaya bahwa setiap kue punya cerita dan setiap cerita pantas dirayakan dengan cita rasa terbaik. Sebagai toko online cake dan kue kering homemade, kami menghadirkan produk yang bukan hanya lezat, tapi juga dibuat dengan sepenuh hati dan nilai-nilai yang kami pegang teguh.
 
-### Nilai-Nilai Kami
+Niana Cake'tag adalah toko kue online yang berbasis di Tangerang, menghadirkan aneka pilihan cake dan kue kering homemade yang dibuat dengan sepenuh hati dan bahan berkualitas tinggi. Kami hadir untuk menjawab kebutuhan masyarakat akan kue lezat, aman, dan estetis, baik untuk konsumsi pribadi maupun sebagai hadiah atau hampers.
 
-**Dipanggang Segar Setiap Hari**
+## Spesialisasi Produk Kami
+    
+**1. Cookies Homemade Premium**
+    Kami menawarkan berbagai varian cookies, seperti Red Velvet Cookies, Choco Crunch, hingga classic butter cookies. Semua dibuat tanpa pengawet, menggunakan mentega asli dan bahan berkualitas untuk hasil yang renyah di luar dan lembut di dalam.
 
-Kami memanggang setiap cake dan kue kering secara fresh setiap hari. Dengan begitu, setiap gigitan selalu menghadirkan kesegaran dan rasa otentik yang tak terlupakan.
+**2. Cake Lembut dan Moist**
+    Kami membuat cake dengan tekstur yang lembut, rasa yang seimbang, dan tampilan menarik. Cocok untuk ulang tahun, acara keluarga, hingga perayaan spesial. Tersedia dalam bentuk whole cake maupun mini cake yang praktis.
 
-**Menggunakan Bahan Premium**
+**3. Dessert Box Kekinian**
+    Produk andalan kami yang sangat digemari semua kalangan gen. Perpaduan layer cake, mousse lembut, dan topping creamy dalam satu box. Hadir dalam berbagai rasa dan selalu dibuat fresh sesuai pesanan.
 
-Kami hanya memilih bahan terbaik: mentega asli, cokelat premium, dan buah-buahan segar. Tanpa pengawet, tanpa bahan tambahan berbahaya. Karena bagi kami, kualitas adalah segalanya.
+**4. Brownies Bite dan Variasi Camilan Cokelat**
+    Untuk pencinta cokelat, kami menghadirkan brownies bite fudgy dengan cokelat premium yang lumer di mulut. Ukurannya pas untuk camilan ringan, oleh-oleh, atau isi hampers.
 
-**Dibuat dengan Tangan & Cinta**
+**5. Kue Kering Spesial Hari Raya**
+    Kastengel, nastar, dan putri salju dengan resep klasik yang ditingkatkan menggunakan keju dan bahan premium. Cocok untuk lebaran, hampers kantor, atau suguhan spesial.
 
-Setiap produk dibuat secara handmade oleh tim baker profesional yang berpengalaman. Dari tekstur hingga tampilan, kami fokus pada detail untuk memberikan hasil terbaik di setiap produk.
+**6. Kue Custom Sesuai Permintaan**
+    Kami menerima pemesanan kue custom dengan desain dan rasa yang disesuaikan dengan kebutuhan pelanggan. Ideal untuk ulang tahun, bridal shower, acara kantor, atau momen istimewa lainnya.
 
-**Kreasi Kustom untuk Momen Spesial**
+## Kenapa Memilih Niana Cake'tag?
+- Semua produk homemade dan tanpa pengawet
+- Dipanggang segar setiap hari, bukan stok lama
+- Menggunakan bahan premium yang aman dan halal
+- Cocok untuk semua kalangan usia
+- Pelayanan cepat dan ramah, bisa dipesan melalui website resmi: www.nianastore.biz.id
 
-Kami tahu bahwa setiap perayaan itu unik. Itulah mengapa kami menerima pesanan kue custom—dengan desain dan rasa sesuai impianmu.
+Kami percaya bahwa kue bukan sekadar makanan penutup, tapi bagian dari momen yang ingin dikenang. Karena itu, setiap produk kami dibuat dengan perhatian penuh terhadap rasa, kualitas, dan tampilan.
 
-**Memanggang secara Etis & Berkelanjutan**
-
-Kami berkomitmen untuk ramah lingkungan. Mulai dari memilih bahan yang bersumber secara etis hingga meminimalisir limbah dalam proses produksi, kami percaya bahwa bisnis pun bisa peduli pada bumi.
-
-**Niana Cake'tag bukan sekadar toko kue. Kami adalah bagian dari momen manismu.**
+## Niana Cake'tag
+*Cake dan Cookies Homemade Premium, Manisnya Selalu Dikenang.*
